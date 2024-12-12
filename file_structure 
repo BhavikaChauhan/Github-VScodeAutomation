@@ -1,0 +1,7 @@
+git-automation-scripts/
+├── scripts/            # Contains all bash scripts
+├── logs/               # Log files for debugging and operation history
+├── README.md           # Documentation for the project
+├── LICENSE             # License file (optional)
+├── .gitignore          # To exclude unnecessary files
+└── git_automation.sh   # Main script that ties everything together
