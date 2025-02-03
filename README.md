@@ -2,14 +2,14 @@ Git Automation Scripts
 Overview
 Git Automation Scripts is a collection of Bash scripts designed to simplify common Git and GitHub operations. By automating tasks like creating repositories, committing changes, and managing branches, this project reduces repetitive manual workflows and enhances productivity.
 
- Features
+# Features
 Create GitHub Repositories: Automate repository creation using the GitHub API.
 Clone Repositories: Easily clone repositories via HTTPS or SSH.
 Commit and Push Changes: Automate the process of staging, committing, and pushing changes to remote branches.
 Branch Management: Quickly create, switch, and merge branches from the command line.
 Interactive CLI Menu: A user-friendly menu interface for easy navigation.
 Error Handling and Logging: Basic error checks and operation logs for debugging.
->>>>>>> 47038b7dfb430a034fca5d368a161003bb39a5ef
+
 
 # Prerequisites
 Git: Ensure Git is installed (git --version).
@@ -75,10 +75,3 @@ Choose an operation:
 Hands-on experience with GitHub APIs.
 Improved understanding of Bash scripting for automation.
 Problem-solving skills for handling edge cases in Git workflows.
-
-
-Author Bhavika
-
-Feel free to share feedback or contribute to this project!
-
->>>>>>> 47038b7dfb430a034fca5d368a161003bb39a5ef
