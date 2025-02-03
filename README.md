@@ -9,6 +9,7 @@ Commit and Push Changes: Automate the process of staging, committing, and pushin
 Branch Management: Quickly create, switch, and merge branches from the command line.
 Interactive CLI Menu: A user-friendly menu interface for easy navigation.
 Error Handling and Logging: Basic error checks and operation logs for debugging.
+>>>>>>> 47038b7dfb430a034fca5d368a161003bb39a5ef
 
 # Prerequisites
 Git: Ensure Git is installed (git --version).
@@ -45,6 +46,22 @@ git-automation-scripts/
 # Usage
 Run the main automation script:
 ./git_automation.sh
+<<<<<<< HEAD
+You will be presented with an interactive menu:
+Git Automation Script
+Choose an operation:
+1) Create a GitHub repository
+2) Clone a repository
+3) Commit and push changes
+4) Manage branches
+5) Exit
+
+# Learning Outcomes
+Hands-on experience with GitHub APIs.
+Improved understanding of Bash scripting for automation.
+Problem-solving skills for handling edge cases in Git workflows.
+
+=======
 You will be presented with an interactive menu:
 Git Automation Script
 Choose an operation:
@@ -63,3 +80,5 @@ Problem-solving skills for handling edge cases in Git workflows.
 Author Bhavika
 
 Feel free to share feedback or contribute to this project!
+
+>>>>>>> 47038b7dfb430a034fca5d368a161003bb39a5ef
